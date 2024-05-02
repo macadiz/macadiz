@@ -7,7 +7,8 @@ I'm a passionate software engineer from Chile with over 10 years of experience i
   - 💬 Ask me about ReactJS, NestJS, SQL, architecture terms.
   - 📫 How to reach me: Mostly LinkedIn
   - 😄 Pronouns: He/Him
-  -⚡ Fun fact: I love cats, I have a special girl called Manchis that you may encounter her in some of my media
+  - ⚡ Fun fact: I love cats, I have a special girl called Manchis that you may encounter her in some of my media
+    
 ### 💻 Tech Stack
 Here are some technologies I work with:
 

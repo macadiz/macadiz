@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there! 👋 I'm Miguel Acevedo Cádiz
+I'm a passionate software engineer from Chile with over 10 years of experience in the field. My journey in software development has been exciting, filled with challenges and opportunities to learn and grow.
 
-<!--
-**macadiz/macadiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+  - 🔭 I’m currently working on [Poker Plan'em](www.pokerplanem.com).
+  - 🌱 I’m currently learning [SolidJS](https://www.solidjs.com/).
+  - 💬 Ask me about ReactJS, NestJS, SQL, architecture terms.
+  - 📫 How to reach me: Mostly LinkedIn
+  - 😄 Pronouns: He/Him
+  -⚡ Fun fact: I love cats, I have a special girl called Manchis that you may encounter her in some of my media
+### 💻 Tech Stack
+Here are some technologies I work with:
 
-Here are some ideas to get you started:
+Programming Languages: Javascript, Typescript, Python
+Frameworks & Libraries: Node.js, React, Angular, SolidJS, NestJS, Django
+Databases: MySQL, PostgreSQL, SQL Server, Firestore, MongoDB, Redis
+Tools & Technologies: Git, Docker, GCP, AWS, Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Projects
+Here are some notable projects I've worked on:
+
+Poker Plan'em: A realtime tool that helps agile team with their planning estimations
+Valorant Agent Screen Clone: A "wannabe" clone of Valorant's agent screen using React, CSS and Web APIs
+
+Feel free to explore more of my projects on GitHub.
+
+📫 Get in Touch
+LinkedIn: [https://www.linkedin.com/in/macadiz/](https://www.linkedin.com/in/macadiz/)

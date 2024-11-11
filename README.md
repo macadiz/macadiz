@@ -2,7 +2,7 @@
 I'm a passionate software engineer from Chile with over 10 years of experience in the field. My journey in software development has been exciting, filled with challenges and opportunities to learn and grow.
 
 ### 🚀 About Me
-  - 🔭 I’m currently working on [Poker Plan'em](www.pokerplanem.com).
+  - 🔭 I’m currently working on [Poker Plan'em](https://www.pokerplanem.com).
   - 🌱 I’m currently learning [SolidJS](https://www.solidjs.com/).
   - 💬 Ask me about ReactJS, NestJS, SQL, architecture terms.
   - 📫 How to reach me: Mostly LinkedIn

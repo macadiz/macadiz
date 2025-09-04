@@ -1,4 +1,4 @@
-# Hey there, I'm Macadiz! 👋
+# Hey there, I'm Miguel A. Cádiz! 👋
 
 > **Passionate Software Engineer from Chile** 🇨🇱  
 > *Building digital experiences with over 10 years of love for code*
